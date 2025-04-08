@@ -15,9 +15,13 @@
     limitations under the License.
 
 -->
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fgmaven.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fgmaven?ref=badge_large)
+
 # GMaven
 
 ![license](https://img.shields.io/github/license/groovy/gmaven.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fgmaven.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fgmaven?ref=badge_shield)
 
 ![maven-central](https://img.shields.io/maven-central/v/org.codehaus.gmaven/gmaven/2.svg)
 
